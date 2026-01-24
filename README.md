@@ -2,6 +2,8 @@
 
 >Este projeto consiste em um carrossel robusto, desenvolvido em JavaScript puro (ES6+), focado em performance, acessibilidade e responsividade.
 
+Link de Vizualização: [Slide](https://devrenanpaulino.github.io/slide/)
+
 ---
 
 ### 1. Arquitetura de Classes (Herança)
